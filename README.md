@@ -1,16 +1,9 @@
-# firebase_flutter
+# voting_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+https://user-images.githubusercontent.com/111416514/200164738-4558d8ce-c9bb-4d2f-9d8c-3494375897cd.mp4
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-11-06 at 3 32 05 PM](https://user-images.githubusercontent.com/111416514/200164752-d8ab068b-a6c7-4184-ba39-f7d8a10159b6.jpeg)
+![WhatsApp Image 2022-11-06 at 3 32 05 PM (1)](https://user-images.githubusercontent.com/111416514/200164755-0bf9d6ba-96c5-4f49-85fa-01e0c2029c2b.jpeg)
